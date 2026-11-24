@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets
+.env
+
+# MSAL token cache
+token_cache.bin
+.cache
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
